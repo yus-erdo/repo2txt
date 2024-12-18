@@ -1,6 +1,10 @@
 # repo2txt
 
+![repo2txt logo](logo.webp)
+
 Convert any local repository into a text representation, perfect for creating context for LLMs (Large Language Models) or documentation purposes.
+
+Inspired by https://gitingest.com/ (Use this one for repos you don't have locally, for local repos this CLI makes life easier)
 
 ## Features
 
@@ -16,7 +20,7 @@ Convert any local repository into a text representation, perfect for creating co
 
 1. Download the script:
 ```bash
-curl -O https://raw.githubusercontent.com/your-username/repo2txt/main/repo2txt.py
+curl -O https://github.com/yus-erdo/repo2txt/blob/main/repo2txt.py
 ```
 
 2. Make it executable:
